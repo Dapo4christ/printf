@@ -166,5 +166,4 @@ Holberton\x0ASchool
 
 ### Authors
 
-- **Tu Vo** - [tuvo1106@gmail.com](https://github.com/tuvo1106)
-- **Laura Roudge** - [laura.derohan@gmail.com](https://github.com/lroudge)
+- **Okonkwo Godspower** - [chizobaOG@AOL.com](https://github.com/Buchii0)
