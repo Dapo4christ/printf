@@ -476,7 +476,7 @@ Output:
 
 ## Authors :black_nib:
 
-* Okonkwo Godspower <[chizobaOG@AOL.com]>(https://github.com/Buchii0)>
+* Okonkwo Godspower <[chizobaOG@AOL.com](https://github.com/Buchii0)>
 
 ## Acknowledgements :pray:
 
